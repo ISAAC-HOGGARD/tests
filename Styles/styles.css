@@ -17,10 +17,11 @@ a{
     color: rgb(75, 216, 47);
     text-decoration: none;
 
-    background: fixed;
     background-color: rgb(255, 255, 255);
 
     border-radius: 5px;
+    padding: 2px;
+    padding-top: 6px;
 }
 
 .header{
